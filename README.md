@@ -6,7 +6,7 @@
 
 This project consists of a simple bank account management system developed in Python. The code offers basic functionalities such as deposit, withdrawal, statement display, user creation, and account creation. The program uses a modular approach, dividing functions into distinct logical blocks to make the code easier to understand and maintain.
 
-The project was a prerequisite for approval in the "Mastering Python for Data Science" module of the "Bootcamp Potência Tech powered by [Ifood](https://www.ifood.com.br/) | Data Science" from the educational institution [DIO](https://www.dio.me/).
+The project was a prerequisite for approval in the "Mastering Python for Data Science" module of the "Bootcamp Power Tech powered by [Ifood](https://www.ifood.com.br/) | Data Science" from the educational institution [DIO](https://www.dio.me/).
 
 ## Code Overview:
 
